@@ -6,3 +6,6 @@
 
 - name: Hello
   link: /hello.html
+
+- name: Blog
+  link: /blog.html
